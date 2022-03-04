@@ -10,13 +10,29 @@
 <body>
     <h2>Please fill in the details</h2>
     <form action="">
-        <label for="gender">Gender</label>
-        <select name="gender" id="gender">
-            <option value="male">Male</option>
-            <option value="female">Female</option> 
-        </select>
+        <div>
+            <label for="gender">Gender</label>
+            <select name="gender" id="gender">
+                <option value="male">Male</option>
+                <option value="female">Female</option> 
+             </select>
+        </div><br>
+        <div>
+            <label for="Day">Day</label><br>
+            <input type="number" id="day" placeholder="day" min="0" max="31" required><br>
+        </div>
+        <div>
+            <label for="Month">Month</label><br>
+            <input type="number" id="month" placeholder="day" min="0" max="11" required><br>
+        </div>
+        <div>
+            <label for="year">Year</label><br>
+            <input type="number" id="year" placeholder="day" min="1" required><br>
+        </div>
 
         
+        
+
     </form>
 
     
