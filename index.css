@@ -7,9 +7,10 @@
     font-family: 'Poppins',sans-serif;
 }
 .logo {
-    margin-left: 40%;
+    /* margin-left: 40%; */
     margin-top: 30px;
     margin-bottom: 20px;
+    background-color: maroon;
 }
 .span {
     color: rgb(72, 87, 170)
