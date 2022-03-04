@@ -4,13 +4,14 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: 'Poppins',sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .logo {
     /* margin-left: 40%; */
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 20px;
     background-color: maroon;
+    text-align: center;
 }
 .span {
     color: rgb(72, 87, 170)
@@ -34,6 +35,5 @@ button {
     width: 140px;
     background-color: rgb(72, 87, 170);
     color: white;
-
 } 
     
