@@ -9,3 +9,24 @@ body {
     min-height: 100vh;
     margin: 0;
 }
+.container {
+    background-color: white;
+    border-radius: 5px;
+    width: 500px;
+    max-width: 100%;
+}
+header {
+   background-color: aqua;
+   border-bottom: 1px solid #f0f0f0;
+   padding: 20px 40px; 
+}
+.form {
+    padding: 30px 40px; 
+    font-size: 20px;
+    /* display: block; */
+    /* border-radius: 2px solid yellow; */
+}
+.form-control {
+    margin-bottom: 10px;
+    padding-bottom: 20px;  
+}
