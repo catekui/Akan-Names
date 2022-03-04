@@ -12,12 +12,19 @@
     margin-bottom: 20px;
 }
 .span {
-    color: rgb(112, 153, 17)
+    color: rgb(72, 87, 170)
 }
 .akan {
     display: flex;
     flex-direction: row;
     margin-left: 40px;
     margin-top: 60px;
+}
+.para {
+    margin-top: 30px;
+}
+.image2 {
+    margin-left: 200px;
+    /* height: 1200px; */
 
 }
