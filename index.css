@@ -26,6 +26,14 @@
 }
 .image2 {
     margin-left: 200px;
-    /* height: 1200px; */
-
 }
+button {
+    margin-top: 40px;
+    border-radius: 4rem;
+    height: 50px;
+    width: 140px;
+    background-color: rgb(72, 87, 170);
+    color: white;
+
+} 
+    
