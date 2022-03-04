@@ -16,17 +16,29 @@ body {
     max-width: 100%;
 }
 header {
-   background-color: aqua;
+   background-color: rgb(72, 87, 170);;
    border-bottom: 1px solid #f0f0f0;
    padding: 20px 40px; 
+   font-size: 150x;
 }
 .form {
     padding: 30px 40px; 
     font-size: 20px;
-    /* display: block; */
-    /* border-radius: 2px solid yellow; */
+    text-align: center;
+}
+.gender {
+    margin-top: 20px;
 }
 .form-control {
     margin-bottom: 10px;
     padding-bottom: 20px;  
+}
+#button {
+    margin-top: 40px;
+    border-radius: 4rem;
+    height: 50px;
+    width: 140px;
+    background-color: rgb(72, 87, 170);
+    color: white;
+    font-size: large;
 }
