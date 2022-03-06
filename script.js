@@ -29,3 +29,6 @@ function check(){
         alert('Your Akaname is ' + femaleNames[dayWeek])
     } 
 }
+function refreshPage(){
+    window.location.reload();
+} 

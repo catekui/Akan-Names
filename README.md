@@ -106,4 +106,4 @@ SOFTWARE.
 
 ## Authors Info
 
-Linked - [Catherine Wangui](https://www.linkedin.com/in/catherine-wangui-721789176/)
+LinkedIn - [Catherine Wangui](https://www.linkedin.com/in/catherine-wangui-721789176/)
