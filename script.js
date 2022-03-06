@@ -13,7 +13,7 @@ function check(){
     var yy = parseInt(year.slice(2,4));
     var yr = parseInt(yr)
 
-    var dayWeek = parseInt(((cc/4) - 2*cc-1) + ((5*yy/4)) + ((26*(mm+1)/10)) + dd)%7;
+    var dayWeek = Math.abs(parseInt(((cc/4) - 2*cc-1) + ((5*yy/4)) + ((26*(mm+1)/10)) + dd)%7);
     
     
     if (dd <= 0 || dd > 31){
