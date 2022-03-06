@@ -31,7 +31,8 @@
 .names {
     display: flex;
     flex-direction: row;
-    margin-left: 40px;   
+    margin-left: 40px; 
+    /* text-decoration: none;   */
 }
 .male {
     margin-left: 40px;
