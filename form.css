@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+
 *{
     box-sizing: border-box;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 body {
     background-color: maroon;
@@ -27,16 +32,16 @@ header {
     text-align: center;
 }
 .form input {
-    height: 40px;
-    width: 350px;
+    height: 30px;
+    width: 300px;
     padding: 0 5px;
     font-size: 18px;
     outline: none;
     border: 1px solid silver;
 }
 .form select {
-    height: 40px;
-    width: 350px;
+    height: 30px;
+    width: 300px;
     padding: 0 5px;
     font-size: 18px;
     outline: none;
