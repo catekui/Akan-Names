@@ -50,16 +50,25 @@ header {
 .gender {
     margin-top: 20px;
 }
-.form-control {
+/* .form-control {
     margin-bottom: 10px;
     padding-bottom: 20px;  
-}
+} */
 #button {
-    margin-top: 40px;
+    margin-top: 10px;
     border-radius: 4rem;
     height: 50px;
     width: 140px;
     background-color: rgb(72, 87, 170);
+    color: white;
+    font-size: large;
+}
+#cancel {
+    margin-top: 10px;
+    border-radius: 4rem;
+    height: 50px;
+    width: 140px;
+    background-color: rgb(241, 33, 137);
     color: white;
     font-size: large;
 }
