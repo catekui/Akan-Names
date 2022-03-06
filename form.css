@@ -26,6 +26,22 @@ header {
     font-size: 20px;
     text-align: center;
 }
+.form input {
+    height: 40px;
+    width: 350px;
+    padding: 0 5px;
+    font-size: 18px;
+    outline: none;
+    border: 1px solid silver;
+}
+.form select {
+    height: 40px;
+    width: 350px;
+    padding: 0 5px;
+    font-size: 18px;
+    outline: none;
+    border: 1px solid silver;
+}
 .gender {
     margin-top: 20px;
 }
