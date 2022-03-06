@@ -28,6 +28,11 @@
 .image2 {
     margin-left: 200px;
 }
+.names {
+    display: flex;
+    flex-direction: row;
+    
+}
 button {
     margin-top: 40px;
     border-radius: 4rem;
