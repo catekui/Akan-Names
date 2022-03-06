@@ -34,6 +34,11 @@ button {
     height: 50px;
     width: 140px;
     background-color: rgb(72, 87, 170);
-    color: white;
+    color: silver;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+    outline: none;
+
 } 
     
